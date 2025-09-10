@@ -6,7 +6,7 @@
 jupyter==1.0.0
 matplotlib==3.3.4
 numpy==1.22.0
-pandas==1.2.2
+pandas==1.5.3 #The pandas version was updated to the most recent one
 scipy==1.6.0
 
 ##### Machine Learning packages
@@ -60,3 +60,4 @@ numexpr==2.7.2
 nltk==3.6.6
 urlextract==1.2.0
 
+# Updated by Luis Mendoza for TechnoReady exercise
